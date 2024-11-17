@@ -89,7 +89,7 @@ fn main() {
 ```
 
 25. Da li ključna reč `if` prestavlja izraz u Rust-u?
-26. Šta je rezultat ivršavanja sledećeg koda?
+26. Šta je rezultat izvršavanja sledećeg koda?
 
 ```rust
 fn main() {
